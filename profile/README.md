@@ -25,3 +25,14 @@
 |--------|-------------|
 | [ecole-it-todo-demo](https://github.com/Nicolas-Cousin-Tech-Solutions/ecole-it-todo-demo) | App Blazor Server pour démontrer la consommation d’une API REST |
 | [ecole-it-tp-evaluation](https://github.com/Nicolas-Cousin-Tech-Solutions/ecole-it-tp-evaluation) | Template TP d’évaluation avec API Minimal, tests et devcontainer |
+
+---
+
+## 🧭 Mon approche Lead Tech
+
+Retrouvez ma méthodologie complète :
+👉 [lead-tech-template](https://github.com/Nicolas-Cousin-Tech-Solutions/lead-tech-template)
+
+🔹 Clean Architecture & TDD  
+🔹 CI/CD standardisée (GitHub Actions, Sonar, Serilog, Docker)  
+🔹 Charte technique & ADR documentés
